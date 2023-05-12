@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_page1"
+        android:enabled="true"
+        android:icon="@drawable/ic_start_border"
+        android:title="page1" />
+    <item
+        android:id="@+id/action_page2"
+        android:title="Item"
+        android:enabled="true"
+        android:icon="@drawable/ic_start_border"/>
+    <item
+        android:id="@+id/prueb"
+        android:title="page2"
+        android:enabled="true"
+        android:icon="@drawable/ic_start_border"/>
+</menu>
